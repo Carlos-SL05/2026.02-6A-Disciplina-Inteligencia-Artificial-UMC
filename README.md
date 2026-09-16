@@ -13,6 +13,9 @@ Repositório para a disciplina de Inteligência artificial - Docente: Fabiano Be
       - Python - DataScience.pdf -- Lista dos exercícios de DataScience em Python em PDF
     - Atividades_Data_Science_Carlos_6°A_Manhã.ipynb -- Resolução dos exercícios de DataScience em Python
 
+  - Reavaliação dataset iris SVM
+    - SVM_Reavaliacao_Iris_Carlos_6°A_Manhã.ipynb
+
 - README.md
 # Conteúdo
 Link para o colab - Lista de exercícios Python: Exercícios_Python_Carlos_6°A_Manhã.ipynb
