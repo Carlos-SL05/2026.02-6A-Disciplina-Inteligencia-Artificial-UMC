@@ -15,6 +15,9 @@ Repositório para a disciplina de Inteligência artificial - Docente: Fabiano Be
 
   - Reavaliação dataset iris SVM
     - SVM_Reavaliacao_Iris_Carlos_6°A_Manhã.ipynb
+   
+  - Atividade Prática Classificação com Support Vector Machines (SVM)
+    - SVM_Classificação_Breast_Cancer_Carlos_e_Luan_6°A_Manhã.ipynb
 
 - README.md
 # Conteúdo
